@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido durante o curso do professor Nélio Alves. O objetivo do projeto é implementar uma aplicação de web services utilizando Spring Boot, JPA e Hibernate.
 
+Este projeto representa o desenvolvimento de uma aplicação backend, com foco na criação de serviços RESTful para operações CRUD, persistência de dados e tratamento de exceções personalizadas.
+
 ## Tecnologias Utilizadas
 - **Java**
 - **Spring Boot**
